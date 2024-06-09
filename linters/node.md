@@ -11,7 +11,7 @@ pnpm add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin pr
 {
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
-    "ecmaVersion": 12,
+    "ecmaVersion": 14,
     "sourceType": "module"
   },
   "plugins": ["@typescript-eslint"],
